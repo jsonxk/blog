@@ -145,7 +145,7 @@ public class BRLPMain {
             if (i == indexX) {
                 continue;
             }
-            //已经最小
+            //已经最小列
             if (instance.getHeight_yard()[i] == 0) {
                 thisMin = 0;
                 thisMinIndex = i;

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="358f518b-b906-4753-93f1-88594a6d1cc3" name="Default Changelist" comment="" />
+    <list default="true" id="358f518b-b906-4753-93f1-88594a6d1cc3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/ashok/commit/common/BRLP2/BRLPMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/ashok/commit/common/BRLP2/BRLPMain.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/blog_interface/target/" />
@@ -89,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ashok/commit/common/BRLP2/BRLPMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
-              <caret line="189" column="13" selection-end-line="197" />
+            <state relative-caret-position="410">
+              <caret line="147" column="19" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,7 +103,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ashok/commit/common/BRLP2/Readfile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="320">
               <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -123,6 +125,9 @@
     <findStrings>
       <find>lom</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -183,6 +188,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -430,16 +436,18 @@
       <workItem from="1585633434828" duration="7906000" />
       <workItem from="1585664246372" duration="1422000" />
       <workItem from="1585704802971" duration="39000" />
+      <workItem from="1585707832585" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52463000" />
+    <option name="totallyTimeSpent" value="52479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2835821" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2867804" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -697,7 +705,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ashok/commit/common/BRLP2/Readfile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="320">
           <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -707,8 +715,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/java/com/ashok/commit/common/BRLP2/BRLPMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="189" column="13" selection-end-line="197" />
+        <state relative-caret-position="410">
+          <caret line="147" column="19" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
